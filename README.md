@@ -24,8 +24,7 @@
       <sub><i>debugging at 2am</i></sub>
     </td>
     <td valign="middle">
-      My best ideas turn up somewhere between midnight and "wait, why is this broken?"
-      If it compiles on the first try, I get suspicious.
+      I am always looking for something to build or fix.
     </td>
   </tr>
 </table>
