@@ -24,7 +24,7 @@
       <sub><i>debugging at 2am</i></sub>
     </td>
     <td valign="middle">
-      I operate entirely on lo-fi, curiosity, and just one more cup of coffee.
+      I operate entirely on lo-fi, curiosity, and just one more cup of coffee. When I'm not working, I am either playing a hero shooter or card game.
     </td>
   </tr>
 </table>
