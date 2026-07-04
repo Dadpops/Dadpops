@@ -24,7 +24,7 @@
       <sub><i>debugging at 2am</i></sub>
     </td>
     <td valign="middle">
-      I am always looking for something to build or fix.
+      I operate entirely on lo-fi, curiosity, and just one more cup of coffee.
     </td>
   </tr>
 </table>
