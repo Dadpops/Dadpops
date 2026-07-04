@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td valign="middle">
-      I build small, useful tools by day and games by night — practical little
+      I build small, useful tools by day and games by night. Building
       helpers that smooth out the boring parts, and worlds worth getting lost in.
     </td>
     <td align="center" width="150">
