@@ -29,11 +29,39 @@
   </tr>
 </table>
 
+<h3 align="center">Come say hi 👋</h3>
+
 <p align="center">
-  <a href="https://dadpops.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-ff8fab?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  <a href="https://dadpops.github.io/portfolio/" title="Open my portfolio">
+    <img src="assets/portfolio.gif" width="420" alt="My portfolio — click to explore" />
   </a>
-  &nbsp;
+  <br/>
+  <sub><i>my little corner of the web — click to explore →</i></sub>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200" valign="top">
+      <a href="https://www.linkedin.com/in/kitcabena/">
+        <img src="assets/linkedin.gif" width="96" alt="Kit on LinkedIn" title="Kit on LinkedIn" />
+      </a>
+      <br/>
+      <sub><b>LinkedIn</b></sub>
+    </td>
+    <td align="center" width="220" valign="top">
+      <details>
+        <summary>
+          <img src="assets/discord.gif" width="96" alt="Discord — click to reveal my card" title="Click to reveal my Discord (medki)" />
+        </summary>
+        <br/>
+        <img src="assets/DISC.jpg" width="260" alt="Kith · medki on Discord" />
+      </details>
+      <sub><b>Discord</b> — <i>click me!</i></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
   <a href="mailto:dadpopsdev@gmail.com">
     <img src="https://img.shields.io/badge/dadpopsdev@gmail.com-ffb3c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
